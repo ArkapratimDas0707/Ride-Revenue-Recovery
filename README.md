@@ -1,8 +1,8 @@
-🚖 Ride Revenue Recovery – Estimating Lost Revenue in Ride-Hailing
+# 🚖 Ride Revenue Recovery – Estimating Lost Revenue in Ride-Hailing
 
 Objective: Estimate and recover revenue lost due to unmet demand (with a focus on cancellations) in ride-hailing services using statistical imputation and Monte Carlo simulations.
 
-📌 Project Overview
+# 📌 Project Overview
 
 Ride-hailing platforms lose significant revenue when demand is unmet due to:
 
@@ -16,7 +16,7 @@ Incomplete rides
 
 The dataset lacked booking values for unsuccessful rides, making direct loss calculation impossible. This project demonstrates how statistics and simulation can convert missing data into actionable business insights.
 
-🛠️ Methodology
+# 🛠️ Methodology
 
 Problem Framing
 
@@ -63,7 +63,7 @@ Revenue uplift estimated at ~3% daily and hourly.
 
 👉 [Insert table: Pre vs. Post-intervention revenue]
 
-📊 Key Results
+# 📊 Key Results
 
 Global Estimates (Loss by Driver Type)
 
@@ -89,7 +89,7 @@ Recoverable Loss (40% target): ~₹1.37M
 
 Revenue Uplift: +3% daily and hourly
 
-💡 Insights
+# 💡 Insights
 
 Cancellations are the largest driver of loss.
 
@@ -99,7 +99,7 @@ Monte Carlo simulations provided a reliable proxy for missing booking values.
 
 Demonstrated how statistics can enable decision-making even with incomplete data.
 
-🧰 Tools & Skills
+# 🧰 Tools & Skills
 
 Python: pandas, numpy, matplotlib, seaborn
 
@@ -109,7 +109,7 @@ Modeling: LightGBM with Bayesian tuning (baseline check)
 
 Business Analytics: Pareto analysis, hotspot identification, recovery targets
 
-🚀 Conclusion
+# 🚀 Conclusion
 
 By applying Monte Carlo simulations to missing ride data, this project quantified revenue lost to cancellations and other unmet demand, validated estimates with incomplete rides, and identified targeted interventions capable of driving a ~3% uplift in revenue.
 
