@@ -1,4 +1,4 @@
-# 🚖 Ride Revenue Recovery – Estimating Lost Revenue in Ride-Hailing
+# 🚖 Ride Revenue Recovery – Estimating Lost Revenue in Ride-Hailing (Dashboard link: https://app.thebricks.com/file/786a0a26-bcd8-4fa5-a758-44872ee62f48/157@6fc87763-94ff-4535-8678-6a0a26bcd83f:0/visual-board)
 
 Objective: Estimate and recover revenue lost due to unmet demand (with a focus on cancellations) in ride-hailing services using statistical imputation and Monte Carlo simulations.
 
