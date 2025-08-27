@@ -4,7 +4,7 @@ Objective: Estimate and recover revenue lost due to unmet demand (with a focus o
 
 # 📌 Project Overview
 
-Ride-hailing platforms lose significant revenue when demand is unmet due to:
+### Ride-hailing platforms lose significant revenue when demand is unmet due to:
 
 Driver cancellations
 
@@ -18,13 +18,13 @@ The dataset lacked booking values for unsuccessful rides, making direct loss cal
 
 # 🛠️ Methodology
 
-Problem Framing
+### Problem Framing
 
-Unmet demand = lost revenue.
+#### Unmet demand = lost revenue.
 
 Booking values missing for cancellations & unavailability.
 
-Imputation Strategy
+### Imputation Strategy
 
 Ride fares are right-skewed → mean/median imputation unsuitable.
 
